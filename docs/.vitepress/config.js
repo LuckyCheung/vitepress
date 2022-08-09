@@ -1,6 +1,7 @@
 export default {
   title: "Lucky",
   description: "Lucky备忘录",
+  base: "/vitepress/",
   themeConfig: {
     siteTitle: "导航",
     nav: [{ text: "test", link: "/test/" }],
